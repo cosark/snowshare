@@ -135,6 +135,10 @@ docker compose exec db pg_dump -U postgres snowshare > snowshare-backup.sql
 
 Other install methods are covered in [docs/UPGRADE.md](docs/UPGRADE.md).
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Snowshare/)
+
 ## Configuration
 
 Four variables are required:
